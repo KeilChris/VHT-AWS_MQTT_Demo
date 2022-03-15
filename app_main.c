@@ -16,8 +16,6 @@
  * limitations under the License.
  * -------------------------------------------------------------------------- */
 
-// for test purposes
-
 #include <stdio.h>
 #include "main.h"
 #include "cmsis_os2.h"

@@ -23,6 +23,7 @@
 #include "iot_logging_task.h"
 #include "aws_demo.h"
 
+// comment for demo purposes
 
 /* Set logging task as high priority task */
 #define LOGGING_TASK_PRIORITY                         (configMAX_PRIORITIES - 1)
